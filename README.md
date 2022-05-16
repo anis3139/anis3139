@@ -23,8 +23,13 @@ Currently, working as a **Software Engineer** in **[weDevs](https://wedevs.com/a
 - cPanel, VPS, Dedicated...
 
 and more...
- 
-## Connect with me
+
+
+ ### PHP Projects 
+- [Laravel blog](https://github.com/anis3139/snmadmin) (TODO: should deploy and write readme)  
+- [Laravel basic ecommerce](https://github.com/anis3139/ecom-final) (TODO: Should complete)
+- [Laravel + vue todo app](https://github.com/anis3139/)
+- [Facebook comment box wp plugin](https://github.com/anis3139/Facebook-comment-box) 
 
 <p align="left">
 <a href="https://twitter.com/anis3139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anis3139" height="30" width="40" /></a>
