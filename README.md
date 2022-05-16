@@ -26,10 +26,12 @@ and more...
 
 
  ### PHP Projects 
-- [Laravel blog](https://github.com/anis3139/snmadmin) (TODO: should deploy and write readme)  
 - [Laravel basic ecommerce](https://github.com/anis3139/ecom-final) (TODO: Should complete)
+- [Laravel blog](https://github.com/anis3139/snmadmin) (TODO: should deploy and write readme)  
 - [Laravel + vue todo app](https://github.com/anis3139/)
-- [Facebook comment box wp plugin](https://github.com/anis3139/Facebook-comment-box) 
+- [WP Study Abroad theme](https://github.com/anis3139/educulture) 
+- [WP theme for Lawer](https://github.com/anis3139/jurist) 
+- [WP Elementor Plugin Extension](https://github.com/anis3139/atl-extension) 
 
 
 
