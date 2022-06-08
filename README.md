@@ -2,7 +2,7 @@
 
 
 # Hello, I'm Anichur Rahaman...
-Full-stack web developer from Dhaka, Bangladesh. I have rich experience in laravel and vuejs based web application development, also I am good at WordPress. Using PHP as primary backend language since 2017. Have working experience in Python, Go lang, Node JS and React JS also.
+Full-stack web developer from Dhaka, Bangladesh. I have rich experience in laravel and vuejs based web application development, also I am good at WordPress. Using PHP as primary backend language since 2017. Have working experience in Python, PHP, Golang, JavaScript, TypeScript, Laravel, Lumen, Node JS, Express JS, VueJs, React Js, Nuxt JS, Next JS, MySQL, MongoDB, Google Cloud, BigQuery, Datastore,  Nginx, Docker and Git also.
 Currently, working as a **Software Engineer** in **[weDevs](https://wedevs.com/about/team)** ([Appsero](https://appsero.com) Project).
 
 <div style="display: flex;">
